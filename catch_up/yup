@@ -1,0 +1,9 @@
+
+    my_nums =[100, 24, 46, 100, 23]
+    def find_repeat(arr):
+    grades = (70,80,100,90,92)
+    def avr(grades):
+        for num in grades:
+            sum = sum + num
+            count = count + 1
+        print (sum/count)
